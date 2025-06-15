@@ -1,4 +1,9 @@
-# Week 5 – Text Generation Service
+# AIPI 561 (Operationalizing AI) - Week 5 Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
+
+## Overview
 
 A production-style text generation REST API using Amazon Bedrock. This service supports content filtering and usage tracking in addition to generation.
 
